@@ -13,5 +13,5 @@ function linkSelector(){
 }
 
 function imageSelector(){
-  return $(':image');
+  return $(':cat sleeping');
 }

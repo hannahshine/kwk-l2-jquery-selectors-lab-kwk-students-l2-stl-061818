@@ -8,3 +8,6 @@ function liInOlSelector(){
   return $('ol li');
 }
 
+function linkSelector(){
+  return $('')
+}
